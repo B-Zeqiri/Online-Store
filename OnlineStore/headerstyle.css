@@ -1,0 +1,15 @@
+.navbar-brand {
+    color: #6d6d6d;
+    font-weight: 500;
+  }
+  .components {
+    padding-top: 40px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: larger;
+  }
+  /* Style nav items */
+  .navbar-nav .nav-item .nav-link {
+    color: #555;
+  }
